@@ -22,3 +22,6 @@ build/
 # Operating System files
 .DS_Store
 Thumbs.db
+
+# SQLite databases directory (cloned from external repository)
+SQLite_databases_for_learning_data_science/
